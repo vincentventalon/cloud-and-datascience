@@ -6,6 +6,6 @@ To get update please follow [my medium profile](https://medium.com/@vincentventa
 
 The first thematic is about scraping using AWS,Lambda, Kinesis, DynamoDB, S3 and more 
 ## AWS
-| Medium article      |Code |
-| ----------- | ----------- |
-| [Python serverless layer generator](https://vincentventalon.medium.com/python-serverless-layer-generator-for-aws-1a4faa46b097)      | [Repository](https://github.com/vincentventalon/serverless_layer_generator)       |
+|Number| Medium article      |Code |
+|-----------| ----------- | ----------- |
+|1| [Python serverless layer generator](https://vincentventalon.medium.com/python-serverless-layer-generator-for-aws-1a4faa46b097)      | [Repository](https://github.com/vincentventalon/serverless_layer_generator)       |
